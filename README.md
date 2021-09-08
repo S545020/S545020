@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on enhanching my technical skills.
 - 🌱 I’m currently learning React js, GraphQl.
 - 👯 I’m looking to collaborate on TCS.
@@ -11,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nayakantiradha@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I always have a smile on my face
--->
+
